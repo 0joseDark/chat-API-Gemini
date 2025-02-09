@@ -1,5 +1,5 @@
 # chat-API Gemini
-Aqui está um código em Python que cria uma janela no Windows 10 com botões, menu e integração com a API Gemini para um chat simples.  
+API Gemini com um chat simples.  
 ---
 Ele inclui:  
 - **Entrada de texto** para a pergunta do utilizador.  
