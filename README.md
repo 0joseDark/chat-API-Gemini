@@ -20,9 +20,10 @@ pip install google-generativeai
    - `google.generativeai`: Permite a comunicação com a API Gemini.  
 
 2. **Configuração da API Gemini**  
-   - O programa configura a API com uma chave (`API_KEY`).  
-
-3. **Função `enviar_pergunta()`**  
+   - O programa configura a API com uma chave (`API_KEY`). [(`API_KEY`)](https://github.com/0joseDark/chat-API-Gemini/blob/main/API_KEY.md).
+ https://github.com/0joseDark/chat-API-Gemini/blob/main/API_KEY.md
+  
+  3. **Função `enviar_pergunta()`**  
    - Lê o texto da caixa de entrada.  
    - Envia a pergunta para a API Gemini.  
    - Exibe a resposta na caixa de saída.  
